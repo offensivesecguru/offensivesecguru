@@ -15,8 +15,20 @@ Cybersecurity student graduating July 2026, focused on **SOC analysis and blue t
 
 ## 🎓 Certifications
 
+**Completed**
+- ✅ CompTIA ITF+
+- ✅ CompTIA A+
+- ✅ CompTIA Network+
 - ✅ CompTIA Security+
-- 🔄 CEH *(in progress)*
+- ✅ CompTIA CySA+
+- ✅ CompTIA PenTest+
+- ✅ CompTIA Cloud Essentials+
+- ✅ ISC2 CC
+
+**In Progress**
+- 🔄 CEH
+- 🔄 PJPT
+- 🔄 OSCP
 
 ---
 
