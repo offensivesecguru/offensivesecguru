@@ -53,6 +53,21 @@ Home lab focused on firewall configuration, network segmentation, and traffic an
 - Mapped findings to **MITRE ATT&CK** (T1040, T1046, T1557)
 - Tools: pfSense, Wireshark, Nmap, Kali Linux, Metasploitable 2
 
+### 🟠 [Privesc-Lab](https://github.com/offensivesecguru/Privesc-Lab)
+Privilege escalation techniques on Linux and Windows in an isolated home lab.
+- Linux: SUID abuse, sudo misconfigs, writable cron jobs
+- Windows: Unquoted service paths, AlwaysInstallElevated, SeImpersonatePrivilege
+- Tools: LinPEAS, WinPEAS, PrintSpoofer, Kali Linux
+
+---
+
+### 🟣 [Post-Exploitation-Lab](https://github.com/offensivesecguru/Post-Exploitation-Lab)
+Post-exploitation techniques covering persistence, credential access, lateral movement, and exfiltration.
+- Persistence: cron backdoors, SSH key injection, registry run keys
+- Credential access: /etc/shadow dump, hashdump, pass-the-hash
+- Mapped to MITRE ATT&CK T1003, T1053, T1547, T1550, T1070
+- Tools: Metasploit, Hashcat, Netcat, Kali Linux
+
 ---
 
 ### 🔵 [SOC-Alert-Investigation](https://github.com/offensivesecguru/soc-alert-investigation)
