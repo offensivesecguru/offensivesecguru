@@ -1,6 +1,6 @@
 # Hi, I'm Marlone Michaud 👋
 
-Cybersecurity student graduating July 2026, focused on **SOC analysis and blue team operations**. I build hands-on labs to develop real-world skills in threat detection, log analysis, network defense, and penetration testing. Currently holding **CompTIA Security+** and pursuing my **CEH**.
+Cybersecurity student graduating July 2026 with **8 industry certifications**, focused on **SOC analysis and blue team operations**. I build hands-on labs to develop real-world skills in threat detection, log analysis, network defense, and penetration testing. Currently pursuing **CEH**, **PJPT**, and **OSCP**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marlone--michaud-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marlone-michaud)
 
